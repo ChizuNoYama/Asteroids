@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+glc1ct4KthMHyAssMGqjar6xsEfgIO48ZbbPsRr40BvRdP0dJJIvqG61xHA0wWZc9Ht9Uf+4OGmF3cApQVUNA==",
+  "success": true,
+  "projectFilePath": "/home/chizunoyama/GameDev/JumpMan/JumpMan/JumpMan.csproj",
+  "expectedPackageFiles": [
+    "/home/chizunoyama/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/home/chizunoyama/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/home/chizunoyama/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/chizunoyama/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/chizunoyama/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

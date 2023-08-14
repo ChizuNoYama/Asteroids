@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/asteroid1.png","/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/bin/DesktopGL/Content/asteroid1.xnb","TextureProcessor","Texture2DContent",45742,10085,0.1466341
+"/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/earth.png","/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/bin/DesktopGL/Content/earth.xnb","TextureProcessor","Texture2DContent",52980,133301,0.0092443
+"/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/laser_bullet.png","/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/bin/DesktopGL/Content/laser_bullet.xnb","TextureProcessor","Texture2DContent",689,1109,0.1611083
+"/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/laser_fire.wav","/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/bin/DesktopGL/Content/laser_fire.xnb","SoundEffectProcessor","SoundEffectContent",159908,159969,0.0313135
+"/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/shuttle.png","/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/bin/DesktopGL/Content/shuttle.xnb","TextureProcessor","Texture2DContent",9105,125045,0.0048804
+"/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/stars.jpg","/home/chizunoyama/GameDev/JumpMan/JumpMan/Content/bin/DesktopGL/Content/stars.xnb","TextureProcessor","Texture2DContent",150614,1920085,0.0718837
